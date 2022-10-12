@@ -25,7 +25,7 @@ class Main {
 	public static void oMenu(int i){
 		switch(i){
 			case 1:
-				System.out.println("$98,345 average salary in south florida");
+				System.out.println("$98,345 average salary in South Florida!");
 				break;
 			case 2:
 				System.out.println("US News - 100 Best Jobs!");
