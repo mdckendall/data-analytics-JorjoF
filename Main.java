@@ -20,7 +20,7 @@ class Main {
 	}
 
 	public static void pMenu(){
-		System.out.println("Press 1 to learn about salary.\nPress 2 to learn about the job.\nPress 3 to learn about demand.\nPress 4 to view current students.\nPress 5 to quit");
+		System.out.println("Press 1 to learn about salary.\nPress 2 to learn about the job.\nPress 3 to learn about demand.\nPress 4 to view current students.\nPress 5 to quit.");
 	}
 	public static void oMenu(int i){
 		switch(i){
